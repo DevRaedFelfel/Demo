@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raed Felfel\\ToDeleteLater\\Demo\\Demo.csproj": {}
+    "C:\\Users\\Raed Felfel\\ToDeleteLater\\Cloned demo\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raed Felfel\\ToDeleteLater\\Demo\\Demo.csproj": {
+    "C:\\Users\\Raed Felfel\\ToDeleteLater\\Cloned demo\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raed Felfel\\ToDeleteLater\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\Raed Felfel\\ToDeleteLater\\Cloned demo\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\Raed Felfel\\ToDeleteLater\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\Raed Felfel\\ToDeleteLater\\Cloned demo\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\Raed Felfel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raed Felfel\\ToDeleteLater\\Demo\\obj\\",
+        "outputPath": "C:\\Users\\Raed Felfel\\ToDeleteLater\\Cloned demo\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
